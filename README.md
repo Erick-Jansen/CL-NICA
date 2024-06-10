@@ -1,1 +1,1 @@
-# CL-NICA
+# CLINICA
